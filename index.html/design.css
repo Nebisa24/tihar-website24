@@ -1,0 +1,47 @@
+body{
+    background-image:url("diyo.jpg");
+    background-size: 100%;
+    background-attachment: fixed;
+}
+h1{
+    font-size: 60px;
+    color: gold;
+    text-align: center;
+}
+p{
+    font-size: 35px;
+    color:wheat;
+    font-family: Cambria;
+    text-align: justify;
+}
+button{
+    font-size: 30px;
+}
+#p1{
+    font-size: 50px;
+    color: red;
+}
+input{
+    font-size: 30pt;
+}
+#p2{
+    font-size: 50px;
+    color: white;
+}
+#p3{
+    font-family: 'Times New Roman';
+    font-size: 40px;
+    color: ivory;
+}
+#p7{
+    height:400px;
+    width:600px;
+}
+#p4{
+    height:400px;
+    width: 600px;
+}
+img:not([src])
+{
+display: none;
+}
